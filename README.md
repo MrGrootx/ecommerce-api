@@ -89,7 +89,6 @@ This API provides endpoints for managing products, orders, and user authenticati
 
 ## 📦 Packages Used
 - **bcryptjs** - Used for hashing and verifying passwords securely.
-- **body-parser** - Middleware to parse incoming request bodies in JSON format.
 - **cors** - Enables Cross-Origin Resource Sharing for handling requests from different domains.
 - **dotenv** - Loads environment variables from a `.env` file.
 - **express** - A minimal and flexible Node.js web application framework.
